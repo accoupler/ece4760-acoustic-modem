@@ -1,0 +1,1 @@
+Acoustic modem for transmitting serial data. Uses the Atmel Atmega644 microcontroller. Final project for Cornell University ECE4760 "Design with Microcontrollers" project course.
